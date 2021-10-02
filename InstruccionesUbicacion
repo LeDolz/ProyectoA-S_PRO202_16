@@ -1,1 +1,1 @@
-La carpeta A+S hace referencia al nombre de la base de datos, esta debe ser ubicada en la siguiente ruta: C:\ProgramData\MySQL\MySQL Server 8.0\Data 
+La carpeta as_16 contiene las tablas de la base de datos exportadas, estas deben ser importadas en el SGBD MySQL.
