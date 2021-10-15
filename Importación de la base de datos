@@ -1,1 +1,2 @@
-El archivo as_16.sql contiene la base de datos exportada desde el sistema gestor de bases de datos, estas deben ser importadas en el SGBD MySQL. Importante marcar la casilla "Import from self-contained file" al momento de realizar la importación para que esta se efectue de manera satisfactoria.
+El archivo as_16.sql contiene la base de datos exportada desde el sistema gestor de bases de datos, estas deben ser importadas en el SGBD MySQL.
+Importante marcar la casilla "Import from self-contained file" al momento de realizar la importación para que esta se efectue de manera satisfactoria.
