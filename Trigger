@@ -1,0 +1,1 @@
+La base de datos, de igual manera posee un trigger, la función de ese consiste en restar una existencia a la tabla libro si es que se inserta un préstamo, el libro al cual se le restará una existencia coincide con el libro que fue prestado.  
